@@ -1,0 +1,7 @@
+x = 10
+y = 20
+if x == y:
+    z = x + y
+while z != 0:
+    z = z - 1
+hello()
